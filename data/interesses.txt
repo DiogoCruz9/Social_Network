@@ -1,0 +1,6 @@
+1;Informatica;
+2;Saude;
+3;Desporto;
+4;Hotelaria;
+5;Restauracao;
+6;Moda e Beleza;

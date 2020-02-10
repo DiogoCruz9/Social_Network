@@ -1,0 +1,8 @@
+1;Comunicacao;
+2;Negociacao;
+3;Flexibilidade;
+4;Pensamento Critico;
+5;Responsabilidade;
+6;Organizacao;
+7;Trabalho de Grupo;
+8;Resiliencia;

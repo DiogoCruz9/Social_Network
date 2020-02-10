@@ -1,0 +1,3 @@
+1;Goncalo Maia;21;Matosinhos;3;2;5;6;2;1;3;1;
+2;Diogo Cruz;20;Custoias;2;1;1;2;5;6;2;
+3;Miguel Francisco;20;Gaia;0;2;1;2;2;5;6;2;
